@@ -52,6 +52,6 @@ blog:
 
 paths:
   home: /
-  blog: /blog/
-  categories: /blog/categories/
-  tags: /blog/tags/
+  blog: /
+  categories: /
+  tags: /
