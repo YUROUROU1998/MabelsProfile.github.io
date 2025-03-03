@@ -21,8 +21,8 @@ sass:
   style: compressed
 
 # Site Data
-url: https://YUROUROU1998.github.io # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: /MabelsProfile.github.io # the subpath of your site, e.g. /blog
+url: https://github.com # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /YUROUROU1998/MabelsProfile.github.io # the subpath of your site, e.g. /blog
 title: Mabel's Profiles
 description: "HI WELCOME TO MY PERSONAL WEBSITE."
 keywords: 'jekyll, personal blog, profiles'
